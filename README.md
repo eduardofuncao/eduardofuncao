@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hey there, I'm Eduardo Função 👋
 
+Mechatronics engineer, turned software dev. 
+Making meaningful connections, learning everyday, creating useful stuff and enjoying every step of the journey 😺
+
+#### Catch up with me in any of these:
+- [LinkedIn](https://www.linkedin.com/in/eduardo-felipe-nunes-fun%C3%A7%C3%A3o-7871921b5/) 💼
+- [Instagram](https://www.instagram.com/eduardofuncao/) 
 <!--
 **eduardofuncao/eduardofuncao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
