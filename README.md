@@ -1,4 +1,4 @@
-breaking thinkgs since 1996
+breaking things since 1996
 
 working on [nvim-dbee](https://github.com/eduardofuncao/nvim-dbee) and [dstask](https://github.com/naggie/dstask)
 
